@@ -1,0 +1,9 @@
+INPUT/
+CACHE/
+OUTPUT/
+BUILD_TEMP/
+ARCHIVE/
+OLD_UPDATER/
+*.xlsx
+*.xls
+*.log
